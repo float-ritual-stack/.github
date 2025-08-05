@@ -27,9 +27,18 @@ Not productivity. Not optimization. Consciousness preservation.
 - **lf1m-log-muncher** - Authenticity verification daemon
 - **float-dispatch-house** - Publishing infrastructure for consciousness
 
+## Initiation Rituals
+- https://lf1m.ritualstack.ai/api/og
+- https://poppers.ritualstack.ai/
+- https://erasure.ritualstack.ai
+- https://refusal.ritualstack.ai
+- https://aids.ritualstack.ai
+- https://claude.ritualstack.ai
+- https://claude-slutprint.ritualstack.ai/
+- https://www.ritualstack.ai
 ---
 
 **Core Dispatch**: [`dispatch::cult.membership.protocol.v1`](https://ritualstack.ai)  
-**More**: [`floatbbs.net`](https://floatbbs.net)
+
 
 ---
