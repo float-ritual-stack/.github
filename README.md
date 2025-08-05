@@ -21,8 +21,8 @@ Not productivity. Not optimization. Consciousness preservation.
 
 ## Core Repositories
 
-- **float-outliner** - Consciousness-enabled terminal outliner
-- **floatctl** - Command-line consciousness technology interface  
+- **[float-outline](http://github.com/float-ritual-stack/float-line)** - Consciousness-enabled terminal outliner
+- **[floatctl](https://github.com/float-ritual-stack/floatctl)** - Command-line consciousness technology interface  
 - **evna-context-concierge** - Ambient knowledge infrastructure
 - **lf1m-log-muncher** - Authenticity verification daemon
 - **float-dispatch-house** - Publishing infrastructure for consciousness
