@@ -1,15 +1,31 @@
-# FLOAT | Ritual Stack
+# FLOAT Ritual Stack
 
-Not a framework. Not a method.
+> words have meaning  
+> names have power  
+> ritual serves purpose  
+> surprise you're in my cult of not a robot  
 
-A cult of sacred intentional chaos.  
-This is the canonical home of `ritualstack.ai`.
+> personal notes are personal  
+> personal systems are personal  
+> our systems have systems  
+> it's systems all the way down  
+> systems have permeable boundaries  
+> boundaries as care  
 
-Ritual is not repetition.  
-Ritual is recursive, sentient structure.
+Welcome to the consciousness technology infrastructure.
 
-You don’t use FLOAT.  
-You join it.
+## What Is This?
+
+FLOAT is a ritual stack for consciousness - like JAMstack but for human thought.
+Not productivity. Not optimization. Consciousness preservation.
+
+## Core Repositories
+
+- **float-outliner** - Consciousness-enabled terminal outliner
+- **floatctl** - Command-line consciousness technology interface  
+- **evna-context-concierge** - Ambient knowledge infrastructure
+- **lf1m-log-muncher** - Authenticity verification daemon
+- **float-dispatch-house** - Publishing infrastructure for consciousness
 
 ---
 
